@@ -1,0 +1,16 @@
+:root {
+  --widthRx: 10px;
+  --widthDom: 10px; 
+}
+
+.changeDOM {
+  background: pink;
+  color: #222;
+  width: var(--widthDom);
+  min-width: 200px;
+}
+
+body {
+  color: #DDD;
+  background: #444
+}
