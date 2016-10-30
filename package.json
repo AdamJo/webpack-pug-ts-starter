@@ -1,7 +1,7 @@
 {
   "name": "webpack-pug-ts-starter",
   "version": "1.0.0",
-  "description": "webpack-pug-ts-starter",
+  "description": "A starter using pug, typescript, webpack and rxjs ",
   "main": "/src/index.js",
   "scripts": {
     "build": "npm run build:prod",
